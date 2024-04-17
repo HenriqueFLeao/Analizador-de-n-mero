@@ -63,7 +63,7 @@ function finalizar() {
 
         txt = `O maior valor informado foi ${maior}.`
         adicionarElemento(txt)
-        txt = `O maior valor informado foi ${menor}.`
+        txt = `O menor valor informado foi ${menor}.`
         adicionarElemento(txt)
         txt = `Somando todos os valores, temos ${somatoria}.`
         adicionarElemento(txt)
